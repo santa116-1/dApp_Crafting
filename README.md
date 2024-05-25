@@ -7,7 +7,6 @@
 
 ## ✨ [Demo](https://token-ico-demo.productsway.com)
 
-[![Blockchain - DApp 101 - ICO Smart Contract](https://img.youtube.com/vi/9fmViThaMGk/0.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
 
 ## One click deployment
 
