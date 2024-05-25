@@ -169,11 +169,6 @@ Then, deploy the upgrade smart contract
 npx hardhat run --network localhost scripts/upgrade_box.js
 ```
 
-👤 **Dung Huynh**
-
-- Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
 
 ## Stargazers 🌟
 
