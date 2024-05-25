@@ -1,17 +1,5 @@
 # Welcome to dapp-crafting-ico 👋
 
-
-> Opinionated Dapp Starter Template
-
-## 🏠 [Homepage](https://dapp-token-ico.productsway.com)
-
-## ✨ [Demo](https://token-ico-demo.productsway.com)
-
-
-## One click deployment
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/f6mr8o?referralCode=-GINmA)
-
 ## Screenshot
 
 ![./screenshot.png](./screenshot.png)
